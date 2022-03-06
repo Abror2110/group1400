@@ -39,6 +39,14 @@ ul,ol{
     font-weight: 400;
     font-size: 20px;
 }
+/* murod */
+.murod__inner{
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(141, 141, 141);
+}
+
 .footer{
     background-color: brown;
     padding: 20px 0;
