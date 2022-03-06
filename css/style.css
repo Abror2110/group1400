@@ -39,6 +39,14 @@ ul,ol{
     font-weight: 400;
     font-size: 20px;
 }
+/* murod */
+.murod__inner{
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(141, 141, 141);
+}
+
 .siddiq{
     background-color: aquamarine;
 }
@@ -89,7 +97,6 @@ ul,ol{
     gap: 50px;
     justify-content: center;
     align-items: center;
-=======
 .Rukhsor{
     width: 100%;
     height: 100%;
